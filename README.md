@@ -1,6 +1,6 @@
 # Note Taking App
 
-This is a Note Taking app, built in React. This project is heavily influenced by Google Keep. I mainly created this to practice React, and showcase some of my React Skills. Practice makes perfect :). I want to recreate my public facing software portfolio in 2020. I will start uploading projects like these to showcase my programming abilities. It's also great practice for my programming skills as well. 
+This is a Note Taking Web Application, built in React. This project is heavily influenced by Google Keep. I mainly created this to practice React, and showcase some of my React Skills. Practice makes perfect :). I want to recreate my public facing software portfolio in 2020. I will start uploading projects like these to showcase my programming abilities. It's also great practice for my programming skills as well. 
 
 I did not use TDD (Test Driven Development) or any testing libraries in this project. 
 
