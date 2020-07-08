@@ -10,8 +10,8 @@ function CreateArea(props) {
     content: "",
   });
 
-  function handleChange(event) {
-    const { name, value } = event.target;
+  function handleChange(e) {
+    const { name, value } = e.target;
 
     setNote((prevNote) => {
       return {

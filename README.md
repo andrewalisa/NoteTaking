@@ -1,68 +1,55 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Note Taking App
 
-## Available Scripts
+This is a Note Taking app, built in React. This project is heavily influenced by Google Keep. I mainly created this to practice React, and showcase some of my React Skills. Practice makes perfect :). I want to recreate my public facing software portfolio in 2020. I will start uploading projects like these to showcase my programming abilities. It's also great practice for my programming skills as well. 
 
-In the project directory, you can run:
+I did not use TDD (Test Driven Development) or any testing libraries in this project. 
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prerequisites
 
-### `npm run build`
+Clone this repository. You will need to have Node.js and NPM installed on your machine.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Node](http://nodejs.org/) is really easy to install & it includes include [NPM](https://npmjs.org/)  
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Installing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start with running 
 
-### `npm run eject`
+```
+npm install
+```
+This will install of of the dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To start the server run 
+```
+npm start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To Visit App (if default port is 3000): 
+```
+localhost:3000
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Improvements
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Below is a list of improvements I can make to this application. This isn't an all inclusive list
 
-## Learn More
+* Themes 
+* Integrate a database (MongoDB or SQL) to actually save your notes
+* Make the web application even more friendly
+* UI Refinements
+* Different Profiles
+  * Include Logging in / Logging Out
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[React v16.13.1](https://reactjs.org/) - The web framework used
 
-### Code Splitting
+## Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* **Andrew Alisa** 
