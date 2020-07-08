@@ -45,6 +45,7 @@ Below is a list of improvements I can make to this application. This isn't an al
 * UI Refinements
 * Different Profiles
   * Include Logging in / Logging Out
+* Add Testing
 
 ## Built With
 
