@@ -2,9 +2,6 @@
 
 This is a Note Taking Web Application, built in React. This project is heavily influenced by Google Keep. I mainly created this to practice React, and showcase some of my React Skills. Practice makes perfect :). I want to recreate my public facing software portfolio in 2020. I will start uploading projects like these to showcase my programming abilities. It's also great practice for my programming skills as well. 
 
-I did not use TDD (Test Driven Development) or any testing libraries in this project. 
-
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -45,7 +42,7 @@ Below is a list of improvements I can make to this application. This isn't an al
 * UI Refinements
 * Different Profiles
   * Include Logging in / Logging Out
-* Add Testing
+* Add Automated Testing
 
 ## Built With
 
